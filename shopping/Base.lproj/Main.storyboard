@@ -20,8 +20,8 @@
                                 <rect key="frame" x="0.0" y="17" width="320" height="35"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="poster2" highlighted="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kGe-Bg-LRX">
-                                <rect key="frame" x="0.0" y="54" width="320" height="118"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="162706005_126104112742267_6859274792549448894_n" highlighted="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kGe-Bg-LRX">
+                                <rect key="frame" x="0.0" y="52" width="320" height="118"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="trolly" translatesAutoresizingMaskIntoConstraints="NO" id="fER-ks-eFj">
@@ -930,10 +930,11 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="30" y="72.887323943661968"/>
+            <point key="canvasLocation" x="656" y="-118"/>
         </scene>
     </scenes>
     <resources>
+        <image name="162706005_126104112742267_6859274792549448894_n" width="640" height="640"/>
         <image name="Amaranto" width="148" height="349"/>
         <image name="Amaranto2" width="250" height="250"/>
         <image name="Dear Liar" width="148" height="349"/>
@@ -961,7 +962,6 @@
         <image name="Tough Love" width="148" height="349"/>
         <image name="Tough Love2" width="250" height="250"/>
         <image name="logo" width="203" height="54"/>
-        <image name="poster2" width="596" height="456"/>
         <image name="trolly" width="88" height="87"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
